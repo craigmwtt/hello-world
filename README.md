@@ -2,7 +2,7 @@
 
 A command-line Java application that sends dynamic string input through an Apache Camel route.
 
-Requirements: JDK 21 or newer and Maven.
+Requirements: JDK 25 or newer and Maven.
 
 ## Run with a command-line argument
 
